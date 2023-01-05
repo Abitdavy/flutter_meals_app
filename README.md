@@ -1,6 +1,6 @@
-# meals_app
+# YumYum
 
-A new Flutter project.
+A flutter meals app using List model for the data.
 
 ## Getting Started
 
